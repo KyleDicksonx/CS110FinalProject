@@ -93,7 +93,7 @@ public class GamePanel extends JPanel{
 		//ends each game play loop
 			public  boolean gameEnd = false;
 		//fully ends the game
-			public boolean gameTrueEnd=  false;
+			public boolean gameTrueEnd = false;
 		//1st loop game starting countdown
 			public boolean countdown = true;
 			public int countdownNumber = 3;  
